@@ -1,7 +1,7 @@
 # DriveX_CKC-App
 
-App điều khiển xe thôngകാര qua Bluetooth hoặc gửi lệnh lên Firebase Realtime Database
-
+App điều khiển xe thông qua Bluetooth hoặc gửi lệnh lên Firebase Realtime Database
+Sử dụng công cụ FLUTTER
 ## 📱 Giao diện Ứng dụng
 
 ### 1. Màn hình chính & Điều khiển (Home & Controls)
