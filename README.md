@@ -5,8 +5,10 @@ App điều khiển xe thông qua Bluetooth hoặc gửi lệnh lên Firebase Re
 Sử dụng công cụ FLUTTER
 ## 📱 Giao diện Ứng dụng
 
-### 1. Màn hình chính & Điều khiển (Home & Controls)
+### 1. Màn hình chính & Điều khiển (Andorid & Windows)
 <img width="1908" height="858" alt="home" src="https://github.com/user-attachments/assets/dadc30f6-eb67-4992-8ce3-5a908ce3df28" />
+<img width="1280" height="719" alt="interface_windows" src="https://github.com/user-attachments/assets/f4c533c7-ea5a-4220-b987-c4804aeebdbe" />
+
 
 ### 2. Cài đặt chung (Settings)
 <img width="1908" height="858" alt="settings" src="https://github.com/user-attachments/assets/3313b4f7-e877-4322-8891-d0f815fb6625" />
